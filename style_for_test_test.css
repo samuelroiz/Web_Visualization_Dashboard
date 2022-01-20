@@ -24,8 +24,8 @@ body{
 }
 /* Media Queries */
 @media (max-width: 900px){
-.navbar-small-expand-color{
-	background-color: #38b6b4;
+.navbar-expand-lg{
+	background-color: #5a7978;
 }
 .navbar{
     max-height: none;
@@ -33,11 +33,12 @@ body{
 }
 .navbar div{
     margin: inherit;
-    background-color: white;
+    background-color: rgb(24, 2, 67);
 }
 .navbar-text{
     padding: 10px;
 }
+
 button{
     margin-left: auto;
 }

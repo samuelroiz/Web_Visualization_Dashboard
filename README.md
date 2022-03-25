@@ -1,7 +1,11 @@
 # Web_Visualization_Dashboard
 Building a dashboard and create individual pages for each plot and a means by which it can navigate between them. These pages will contain the visualizations and their corresponding explanations. It will also have a landing page, a page where it can see a comparison of all of the plots, and another page where it can view the data used to build them.
 
-Website link: [Website.md](https://samuelroiz.github.io/Web_Visualization_Dashboard/) 
+[Website_LINK.md](https://samuelroiz.github.io/Web_Visualization_Dashboard/) 
+
+For information on the data and graphs...
+[Information.md](https://github.com/samuelroiz/Weather_Search) 
+
 
 ## Website Layout
 
@@ -54,6 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments
 
-* Pymaceuticals 
+* Weather-Search  
 * USC Data Visualization
 * CSUN Mathematics

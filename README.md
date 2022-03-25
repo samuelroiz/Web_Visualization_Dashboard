@@ -11,27 +11,27 @@ Website link: [Website.md](https://samuelroiz.github.io/Web_Visualization_Dashbo
 
 <p> In the top right corner, you have four images to choose from. The first one has maxed temperature versus latitude. The second is humidity versus latitude. The third is cloudiness versus latitude. Fourth is wind speed versus latitude. To choose one of the four is by selecting or clicking the image you want to look at closer. </p>
 
-#### 1
+### 1.
 ![Max Temperature](https://github.com/samuelroiz/Web_Visualization_Dashboard/blob/main/images/max_temp_page.png) 
 
-#### 2
+### 2.
 ![Humidity](https://github.com/samuelroiz/Web_Visualization_Dashboard/blob/main/images/humidity_page.png) 
 
-#### 3
+### 3.
 ![Cloudiness](https://github.com/samuelroiz/Web_Visualization_Dashboard/blob/main/images/cloudiness_page.png) 
 
-#### 4
+### 4.
 ![Wind Speed](https://github.com/samuelroiz/Web_Visualization_Dashboard/blob/main/images/wind_speed_page.png) 
 
 <p> In the top right corner of the page, there are three buttons. The button that says "Plots" will allow you to access the four images above in a different route. The button has a feature called dropdown. The button next to it is called "Comparison."  It will take all four graphs and compare each other on one page. Finally, the last button is the data. Once clicked on, it will display the data for the graphs. </p> 
 
-#### Dropdown Button
+### Dropdown Button
 ![Plots](https://github.com/samuelroiz/Web_Visualization_Dashboard/blob/main/images/dropdown_button_layout.png) 
 
-#### Comparison
+### Comparison
 ![Comparison](https://github.com/samuelroiz/Web_Visualization_Dashboard/blob/main/images/comparison_page.png) 
 
-#### Data 
+### Data 
 ![Data](https://github.com/samuelroiz/Web_Visualization_Dashboard/blob/main/images/data_page.png) 
 
 ## Contributing

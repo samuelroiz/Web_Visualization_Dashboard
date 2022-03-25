@@ -3,7 +3,8 @@ Building a dashboard and create individual pages for each plot and a means by wh
 
 [Website_LINK.md](https://samuelroiz.github.io/Web_Visualization_Dashboard/) 
 
-For information on the data and graphs...
+<p> <u> For information on the data and graphs </u> </p>
+
 [Information.md](https://github.com/samuelroiz/Weather_Search) 
 
 
